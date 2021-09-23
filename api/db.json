@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "Valorant",
+      "description": "Video game",
+      "id": 1
+    },
+    {
+      "title": "liên minh huyền thoại",
+      "description": "stream game",
+      "id": 2
+    },
+    {
+      "title": "this is my adadaadưqeq",
+      "description": "I created this stream",
+      "userId": "106944134764800091571",
+      "id": 3
+    },
+    {
+      "title": "pubgadada",
+      "description": "mixi gaming",
+      "id": 4
+    },
+    {
+      "title": "my stream",
+      "description": "abc13",
+      "id": 5
+    }
+  ]
+}
